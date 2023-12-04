@@ -2,6 +2,7 @@
   "name": "age-calculator-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/codebyabhisheknayar/age-calculator-react",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
